@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="4dp"
+    android:backgroundTint="#CDD9E3">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/iv"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/bosnia"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="사라예보"
+            android:layout_below="@id/iv"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            />
+        <TextView
+            android:id="@+id/hash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="#시장 #프란츠페르디난트"
+            android:layout_below="@id/nation"
+            android:layout_marginTop="6dp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="12dp"/>
+        <TextView
+            android:id="@+id/nation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="보스니아"
+            android:layout_toRightOf="@id/location"
+            android:layout_below="@id/iv"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="8dp"/>
+        <ImageView
+            android:id="@+id/iv_nation"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:src="@drawable/bos"
+            android:layout_below="@id/iv"
+            android:adjustViewBounds="true"
+            android:layout_alignEnd="@id/iv"
+            android:layout_marginRight="8dp"/>
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

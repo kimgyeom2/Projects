@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <!--1. 레이아웃 뷰와 바인딩할 데이터 변수 선언-->
+    <data>
+        <variable
+            name="user"
+            type="com.gy25m.ex97databinding.User" />
+    </data>
+    <!--2. 레이아웃 뷰-->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context=".MainActivity">
+
+       <!--글씨를 보여주는 TextView-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="@{user.name}"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="@{String.valueOf(user.age)}"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+
+        <!--Boolean 값을 보여주는 CheckBox-->
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="좋아요"
+            android:checked="@{user.fav}"
+            android:onCheckedChanged="@{user::changeFav}"/>
+
+        <!--클릭 이벤트에 따라 이름 글씨를 변경 -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="change name"
+            android:backgroundTint="#61CFCE"
+            android:onClick="@{user::changeName}"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="age plus"
+            android:backgroundTint="@color/teal_700"
+            android:onClick="@{user::increaseAge}"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="toggle Fav"
+            android:backgroundTint="#78BC78"
+            android:onClick="@{(v)->user.toggleFav()}"/>
+
+        <!--EditText의 글씨를 제어하기-->
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="enter text"
+            android:inputType="text"
+            android:onTextChanged="@{user::textChange}"/>
+        <!--EditText의 글씨가 변경될때마다 그 글씨를 보여주는 텍스트뷰-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="8dp"
+            android:text="@{user.message}"
+            android:textSize="20sp"/>
+
+        <!--버튼 누르면 et->tv에 보여주기-->
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="enter text"
+            android:inputType="text"
+            android:onTextChanged="@{(s,start,end,count)->user.changeInputValue(s)}"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="edittext to textview"
+            android:onClick="@{v->user.clcickBtn()}"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="8dp"
+            android:text="@{user.value}"/>
+
+        <!--Fragment에서 데이터 바인딩&기본속성으로 지정이 불가능한 데이터 바인딩 대응 -->
+        <fragment
+            android:id="@+id/frag"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:name="com.gy25m.ex97databinding.MyFragment"
+            tools:layout="@layout/fragment_my"/>
+        <!--tools는 그냥 미리보기, 연결하는건 name-->
+
+    </LinearLayout>
+</layout>

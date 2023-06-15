@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <!--1) textview 제어-->
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Hello World"
+        android:textColor="@color/black" />
+
+    <!--2) Button click event처리-->
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="chang text" />
+
+    <!--EditText에 글씨입력받아 Textview에 보이기-->
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:hint="EnterText"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="button" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="result"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <!--4) 프래그먼트에서 viewbinding-->
+    <fragment
+        android:id="@+id/frag"
+        android:name="com.gy25m.ex78viewbinding.MyFragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        tools:layout="@layout/fragment_my"/> <!--미리보기 보는법 이걸로 불러오는건 아님-->
+    <!--프래그먼트는 name으로 설정해도되지만 그러면 수정이안됨
+    프래그먼트 매니저 사용하면 수정 가능-->
+
+    <!--recyclerView에서 view바인딩 사용해보기-->
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:id="@+id/recycler"
+        android:orientation="horizontal"/>
+
+
+</LinearLayout>

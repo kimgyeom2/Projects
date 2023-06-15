@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887019500837",
+    "project_id": "ex88firebasestoragemrhi2023",
+    "storage_bucket": "ex88firebasestoragemrhi2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887019500837:android:c5265066641fd6995fd6cc",
+        "android_client_info": {
+          "package_name": "com.mrhi2023.ex88firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887019500837-q1m4ftbadtf5g8pa98euilgdj3ot9epi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMt97n_sE2CttUdITgCjZjuyMCJFRR5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887019500837-q1m4ftbadtf5g8pa98euilgdj3ot9epi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

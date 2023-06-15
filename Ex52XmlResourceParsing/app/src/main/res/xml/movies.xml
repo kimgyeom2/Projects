@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <item>
+        <no>1</no>
+        <title>Alien</title>
+        <genre>SF, ACTION, ADVENTURE</genre>
+    </item>
+
+    <item>
+        <no>2</no>
+        <title>Avata</title>
+        <genre>SF, ACTION, ADVENTURE</genre>
+    </item>
+
+    <item>
+        <no>3</no>
+        <title>If Only</title>
+        <genre>ROMANCE</genre>
+    </item>
+
+    <item>
+        <no>4</no>
+        <title>Nightmare</title>
+        <genre>HORROR, THRILLER</genre>
+    </item>
+
+
+</movies>

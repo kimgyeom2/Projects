@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>서울 특별시</item>
+        <item>부산 광역시</item>
+        <item>인천 광역시</item>
+        <item>대전 광역시</item>
+        <item>제주 특별자치도</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591625946931",
+    "project_id": "ex89firestoredbgy25m",
+    "storage_bucket": "ex89firestoredbgy25m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591625946931:android:f2021e1ab96aa21b54e046",
+        "android_client_info": {
+          "package_name": "com.gy25m.ex89firebasefirestoredb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591625946931-1qusrajt5v4n97rerhrqd7b51qad71gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ZmwFwSwKBb7cHLaMY-tzTUlPRx1GWdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591625946931-1qusrajt5v4n97rerhrqd7b51qad71gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

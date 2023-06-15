@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_prince2.jpeg.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\prince2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_activity_art_fragment.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\activity_art_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xxhdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_p1.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\p1.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-mdpi_ic_action_classic.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-mdpi\\ic_action_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-anydpi_ic_action_classic.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-anydpi\\ic_action_classic.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xxhdpi_ic_action_edu.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xxhdpi\\ic_action_edu.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-anydpi_ic_action_art.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-anydpi\\ic_action_art.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-anydpi_ic_action_home.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-anydpi\\ic_action_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xhdpi_ic_action_art.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xhdpi\\ic_action_art.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-hdpi_ic_action_concert.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-hdpi\\ic_action_concert.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-mdpi_ic_action_art.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-mdpi\\ic_action_art.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_sample.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\sample.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-hdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_p2.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\p2.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_tb.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\tb.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-mdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-mdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\color_tab_icon.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\color\\tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_prince3.jpeg.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\prince3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\font_fontt.ttf.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\font\\fontt.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-hdpi_ic_action_art.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-hdpi\\ic_action_art.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_sf.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\sf.png"
+    },
+    {
+        "merged": "com.gy25m.seoulfestival.app-merged_res-29:/layout_dialog.xml.flat",
+        "source": "com.gy25m.seoulfestival.app-main-31:/layout/dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_prince4.jpeg.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\prince4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-hdpi_ic_action_classic.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-hdpi\\ic_action_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_p3.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\p3.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xhdpi_ic_action_edu.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xhdpi\\ic_action_edu.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xhdpi_ic_action_concert.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xhdpi\\ic_action_concert.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xxhdpi_ic_action_classic.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xxhdpi\\ic_action_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_activity_concert_fragment.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\activity_concert_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_square.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\square.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_recycler_item.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-mdpi_ic_action_concert.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-mdpi\\ic_action_concert.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-anydpi_ic_action_edu.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-anydpi\\ic_action_edu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_activity_classic_fragment.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\activity_classic_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xxhdpi_ic_action_art.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xxhdpi\\ic_action_art.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xxhdpi_ic_action_concert.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xxhdpi\\ic_action_concert.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\color_btn.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\color\\btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\font_mk.ttf.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\font\\mk.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable_prince1.jpeg.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable\\prince1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-mdpi_ic_action_edu.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-mdpi\\ic_action_edu.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xhdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_activity_edu_fragment.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\activity_edu_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_activity_home_fragment.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\activity_home_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-anydpi_ic_action_concert.xml.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-anydpi\\ic_action_concert.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-xhdpi_ic_action_classic.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-xhdpi\\ic_action_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-merged_res-29:\\drawable-hdpi_ic_action_edu.png.flat",
+        "source": "C:\\Users\\mrhi\\.gradle\\daemon\\8.0-rc-2\\com.gy25m.seoulfestival.app-main-31:\\drawable-hdpi\\ic_action_edu.png"
+    }
+]

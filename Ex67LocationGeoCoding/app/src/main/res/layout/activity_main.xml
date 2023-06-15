@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="주소를 입력하세요"
+        android:inputType="text"/>
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="주소를 좌표로 변환"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show map"
+        android:id="@+id/btn_map"
+        android:backgroundTint="@color/black"/>
+    <EditText
+        android:id="@+id/et_lat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="위도 입력"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="80dp"/>
+    <EditText
+        android:id="@+id/et_lng"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="경도 입력"
+        android:ems="10"
+        android:inputType="numberDecimal"/>
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="좌표를 주소로 변환"/>
+</LinearLayout>

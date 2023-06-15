@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+<data>
+    <variable
+        name="fvm"
+        type="com.gy25m.pr0613.FragmentViewModel" />
+</data>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#ABF3F2">
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@{fvm.title}"
+            android:textColor="@color/black"
+            android:textSize="50sp" />
+        <Button
+            android:layout_below="@id/tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="btn"
+            android:onClick="@{(v)->fvm.change()}"/>
+    </RelativeLayout>
+</layout>

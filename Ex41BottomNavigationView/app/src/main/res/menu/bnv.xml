@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--최대 5개까지만 menu item가능-->
+    <!--3~5개 권장-->
+    <item android:id="@+id/bnv_tab1"
+        android:title="Tab1"
+        android:icon="@drawable/ic_action_home"/>
+
+    <item android:id="@+id/bnv_tab2"
+        android:title="Tab2"
+        android:icon="@drawable/ic_action_favorite"/>
+
+    <item android:id="@+id/bnv_tab3"
+        android:title="Tab3"
+        android:icon="@drawable/ic_action_bookmark"/>
+</menu>

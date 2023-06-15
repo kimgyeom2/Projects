@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/bb">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+<de.hdodenhof.circleimageview.CircleImageView
+    android:id="@+id/moana"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:src="@drawable/thumb_moana" />
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kim Gyeom"
+        android:textSize="25sp"
+        android:layout_toRightOf="@id/moana"
+        android:padding="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello How are you today?"
+            android:layout_below="@id/tv"
+            android:layout_alignLeft="@id/tv"
+            android:layout_marginTop="10sp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2022.08.26"
+            android:layout_alignParentRight="true"
+            android:textSize="16sp"/>
+    </RelativeLayout>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:scrollbarSize="0dp">
+        <LinearLayout
+            android:layout_width="56dp"
+            android:layout_height="56dp">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:src="@drawable/moana01"
+            android:layout_marginRight="8dp"
+            app:civ_border_width="3dp"
+            app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana02"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana03"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana04"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana05"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana01"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana02"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana03"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana04"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/moana05"
+                android:layout_marginRight="8dp"
+                app:civ_border_width="3dp"
+                app:civ_border_color="#4A63EF"/>
+
+
+        </LinearLayout>
+        
+
+
+    </HorizontalScrollView>
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="2dp"
+       android:background="#D8D3D3"
+       android:layout_marginTop="8dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="androidpromeinfo"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="uninhabited island"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_alignParentBottom="true"/>
+        <ImageView
+            android:id="@+id/menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_segment_24"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dp"/>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/big"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/b2"
+            android:layout_marginTop="8dp"
+            android:adjustViewBounds="true"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp">
+        <ImageView
+            android:id="@+id/star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_grade_24"
+            android:layout_marginRight="8dp"/>
+        <ImageView
+            android:id="@+id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_message_24"
+            android:layout_marginRight="8dp"/>
+        <ImageView
+            android:id="@+id/send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_send_24"
+            android:layout_marginRight="260dp"/>
+        <ImageView
+            android:id="@+id/book"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_bookmark_add_24" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Write your description here.."
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:padding="6dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="26 MINUTES AGO"
+        android:textSize="12sp"
+        android:layout_marginLeft="6dp"/>
+
+
+
+
+
+</LinearLayout>

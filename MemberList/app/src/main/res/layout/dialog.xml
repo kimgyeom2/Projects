@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rel"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/dialog_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NAME : "
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_alignEnd="@id/tv2"
+        android:layout_marginTop="16dp"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/dialog_tv"
+        android:ems="10"
+        android:layout_marginLeft="2dp"
+        android:inputType="text"/>
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GENDER :"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_below="@id/dialog_tv"
+        android:layout_marginTop="10dp"
+        android:paddingTop="12dp"/>
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NATION :"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_below="@id/tv2"
+        android:layout_marginTop="12dp"
+        android:paddingTop="6dp"/>
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/tv2"
+        android:layout_alignTop="@id/tv2"
+        android:layout_marginLeft="8dp"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SEA"
+            android:textSize="16sp"
+            android:textColor="@color/black" />
+        <RadioButton
+            android:id="@+id/rb2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MOUNTAIN"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="16dp"/>
+    </RadioGroup>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/tv3"
+        android:layout_alignTop="@id/tv3"
+        android:layout_marginTop="6dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/tv3"
+        android:layout_marginTop="20dp">
+    <Button
+        android:id="@+id/btn_add"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/tv3"
+        android:text="ADD MEMBER"/>
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/tv3"
+        android:text="CANCEL" />
+    </LinearLayout>
+</RelativeLayout>
